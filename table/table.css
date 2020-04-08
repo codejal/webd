@@ -56,3 +56,10 @@ caption{
     width: 50%;
     margin-left: 22%;
 }
+span{
+    visibility: hidden;
+    display: block;
+}
+td:active>span{
+    visibility: visible;
+}
