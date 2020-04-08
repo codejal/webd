@@ -14,7 +14,8 @@ header{
 
 header{
 	text-align: center;
-	padding-bottom: 5pxpx;
+    padding-bottom: 5pxpx;
+    width: 100%;
 }
 
 h1{
@@ -50,7 +51,7 @@ nav a{
     background-color: #8c9b05;
     width:250px;
     align-content: center;
-    height:1000px;
+    height:100vh;
 }
 
 a img{
@@ -64,6 +65,7 @@ a img{
     margin: auto auto;
     margin-left: 20px;
     margin-top:15px ;
+    display: block;
 }
 
 .right{
