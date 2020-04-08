@@ -48,3 +48,11 @@ tr:last-child td:first-child {
 tr:last-child td:last-child {
     border-bottom-right-radius: 45px;
 }
+
+caption{
+    background-color: black;
+    border-radius: 25px;
+    color: #fff;
+    width: 50%;
+    margin-left: 22%;
+}
