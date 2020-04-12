@@ -32,3 +32,11 @@ li:hover>a{
 .pops:hover ul{
     visibility: visible;
 }
+section{
+    background-image:linear-gradient(rgba(240, 89, 147,0.9),rgba(79, 218, 223,0.7),rgba(240, 89, 147,0.9));
+    padding: 10px;
+    text-align: justify;
+    font-weight: 500;
+    font-size: 120%;
+    font-variant: small-caps;
+}
